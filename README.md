@@ -10,6 +10,7 @@
   <img align="center" alt="Julia-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
   <img align="center" alt="Julia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Julia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Julia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
@@ -50,7 +51,7 @@ Aplicativo desenvolvido em SwiftUI e UIKit, utilizando arquitetura MVVM.
 * Formulários personalizados 
 
 
-<img align="center" alt="Pashion" width="610" src="https://github.com/user-attachments/assets/f4eaa6ce-e6ab-4bf9-8967-4bd6cd06cb3d">
+<img align="center" alt="Pashion" width="610" src="https://github.com/user-attachments/assets/7698c3ec-208c-4204-ad9e-1dd9fefc645b">
 
 
 ### Sapear
@@ -67,7 +68,7 @@ Aplicativo desenvolvido em SwiftUI, utilizando arquitetura MVC.
 * Mascote gesticula a boca emitindo fonemas e palavras
 * Tela de estatísticas
 
-<img align="center" alt="Sapear" width="610" src="https://github.com/user-attachments/assets/dac0ddca-5c52-4aea-9526-eb17e37678c6">
+<img align="center" alt="Sapear" width="610" src="https://github.com/user-attachments/assets/d2060ace-f423-4bb2-a296-c821095019e1">
 
 ### Falling Math
 
@@ -80,14 +81,14 @@ Serious Game desenvolvido em SwiftUI e SpriteKit, utilizando arquitetura MVC.
 #### Funcionalidades
 * O objetivo do jogo é clicar nos blocos que caem da parte superior da tela para fazer as operações básicas da matemática e chegar no objetivo numérico solicitado.
 
-<img align="center" alt="Falling Math" width="610" src="https://github.com/user-attachments/assets/811882fc-97fe-4706-9912-e82221b72c65">
+<img align="center" alt="Falling Math" width="610" src="https://github.com/user-attachments/assets/b6fab669-1faf-4bda-970d-a91ea4590450">
 
 ### Stax
 
 Aplicativo iOS para microempreendedores organizarem suas entradas e saídas de forma eficaz e intuitiva. Visualização em diferentes gráficos e inserção de dados de forma rápida.
 
 
-<img align="center" alt="Falling Math" width="610" src="https://github.com/user-attachments/assets/6ee2d55a-19dd-4634-974d-7a5f28ffa147">
+<img align="center" alt="Falling Math" width="610" src="https://github.com/user-attachments/assets/905d4b90-4965-473f-983d-e2aa9620385a">
 
 
 
